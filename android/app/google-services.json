@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003083816178",
+    "project_id": "fir-authtrial-ea111",
+    "storage_bucket": "fir-authtrial-ea111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003083816178:android:2b9d684a2e58e97583046b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_authentication_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003083816178-inom00u5ip79q4h9t2hf6l15uhtc4nrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnuLJvxgZyEIROhQRfyDspwu6XhITSmvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003083816178-inom00u5ip79q4h9t2hf6l15uhtc4nrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
